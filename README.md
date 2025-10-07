@@ -7,7 +7,7 @@ Pipeline de Predição de Valores do Bolsa Família
 
 ## 📚 Visão Geral
 
-Este projeto implementa um pipeline completo de Machine Learning para prever os valores mensais do programa Bolsa Família por município, utilizando dados históricos, engenharia de features, treinamento de modelo XGBoost e exportação de previsões e artefatos para o MinIO. Os resultados podem ser integrados ao Power BI para visualização.
+Este projeto implementa um pipeline completo de Machine Learning para prever os valores mensais do programa Bolsa Família por município, utilizando dados históricos, engenharia de features, treinamento de modelo XGBoost e exportação de previsões e artefatos para o MinIO. Os resultados preditivos alimentam um PowerBI para comparação de dados históricos X previsões.
 
 ---
 
