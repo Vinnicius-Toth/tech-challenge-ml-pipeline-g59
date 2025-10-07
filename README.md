@@ -110,7 +110,7 @@ docker run -d -p 9000:9000 -p 9001:9001 \
 ## ⚙️ Arquitetura
 
 > ![Exemplo de arquitetura](docs/Arquitetura_pipeline_ml_bolsa_familia.png)  
-> *(Adicione um desenho da arquitetura do seu pipeline aqui, se desejar)*
+> *Desenho de arquitetura Pipeline ML - Bolsa Familia*
 
 ---
 
